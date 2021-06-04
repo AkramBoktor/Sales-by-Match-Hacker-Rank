@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\obj\Debug\Sales by Match.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\obj\Debug\Sales by Match.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\bin\Debug\Sales by Match.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\bin\Debug\Sales by Match.exe
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\bin\Debug\Sales by Match.pdb
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\obj\Debug\Sales by Match.exe
+C:\Users\Akram\Desktop\HackerRank\Day7\Sales by Match\obj\Debug\Sales by Match.pdb
